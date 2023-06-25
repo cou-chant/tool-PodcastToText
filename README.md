@@ -27,4 +27,4 @@ The script will create a text file in the current directory with the same name a
 
 ## License
 
-MIT License
+This project is licensed under the terms of the MIT license.
